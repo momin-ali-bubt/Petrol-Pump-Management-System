@@ -1,0 +1,151 @@
+C:\SuYoG !!!\Project Work\Comp Projects\Petrol Pump Management\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\bin\Debug\petrolmanagementsystem.exe.config
+C:\SuYoG !!!\Project Work\Comp Projects\Petrol Pump Management\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.exe
+C:\SuYoG !!!\Project Work\Comp Projects\Petrol Pump Management\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.xml
+C:\SuYoG !!!\Project Work\Comp Projects\Petrol Pump Management\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.pdb
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.vbprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.about.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.bank_Account.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.bank_details.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.bankaccrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.bankdetailrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.bankdetailshow.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.bankshow.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.bcustrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.billcustomer.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.booth_settings.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.boothsetingrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.boothsetingshow.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.custdipositrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.custdipositshow.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.customer_account.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.customer_detail.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.customer_diposit_pump_bank_detail.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.customeraccountrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.customeraccountshow.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.customerdetailrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.customerdetailshow.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.daily_transaction.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.ds.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.dttrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.empdetailrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.emplyoees_details.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.emptableshow.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.Famtrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.ledgerdetailrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.ledgerdetails.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.ledshow.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.login.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.lubricantdetailrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.lubricants_details.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.lubshow.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.MDIform.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.Resources.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.printbbrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.prodetailrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.product_details.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.product_order.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.product_testing.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.productdetailshow.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.productorderdetail.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.productorderrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.productstock.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.productstockdetail.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.prostockrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.showds.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.showfinalds.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.splash.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.stock.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.supllieraccountdetail.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.supplier_account.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.supplier_details.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.Supplier_withdraw_pump_bank_detail.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.supplieraccountrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.supplierdetailrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.suppliershow.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.suppwithrpt.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.suppwithshow.resources
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.vbproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.vbproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.exe
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.xml
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.pdb
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\bin\Debug\db1.mdb
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\bin\Debug\petrolmanagementsystem.exe.config
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\bin\Debug\petrolmanagementsystem.exe
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\bin\Debug\petrolmanagementsystem.pdb
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\bin\Debug\petrolmanagementsystem.xml
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\bin\Debug\CrystalDecisions.Enterprise.Framework.dll
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\bin\Debug\CrystalDecisions.Enterprise.InfoStore.dll
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\bin\Debug\CrystalDecisions.Shared.dll
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\bin\Debug\System.Web.Services.dll
+F:\Sem.4\C# Projects\Trials\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\bin\Debug\stdole.dll
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.vbprojAssemblyReference.cache
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.exe.config
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.about.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.bank_Account.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.bank_details.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.bankaccrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.bankdetailrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.bankdetailshow.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.bankshow.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.bcustrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.billcustomer.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.booth_settings.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.boothsetingrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.boothsetingshow.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.custdipositrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.custdipositshow.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.customer_account.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.customer_detail.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.customer_diposit_pump_bank_detail.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.customeraccountrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.customeraccountshow.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.customerdetailrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.customerdetailshow.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.daily_transaction.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.ds.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.dttrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.empdetailrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.emplyoees_details.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.emptableshow.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.Famtrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.ledgerdetailrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.ledgerdetails.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.ledshow.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.login.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.lubricantdetailrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.lubricants_details.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.lubshow.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.MDIform.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.Resources.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.printbbrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.prodetailrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.product_details.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.product_order.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.product_testing.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.productdetailshow.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.productorderdetail.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.productorderrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.productstock.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.productstockdetail.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.prostockrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.showds.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.showfinalds.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.splash.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.stock.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.supllieraccountdetail.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.supplier_account.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.supplier_details.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.Supplier_withdraw_pump_bank_detail.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.supplieraccountrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.supplierdetailrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.suppliershow.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.suppwithrpt.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.suppwithshow.resources
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.vbproj.GenerateResource.cache
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.exe
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.xml
+C:\Users\Jibon\Documents\Visual Studio 2019\Projects\petrolmanagesystem\petrolmanagementsystem\petrolmanagementsystem\obj\Debug\petrolmanagementsystem.pdb

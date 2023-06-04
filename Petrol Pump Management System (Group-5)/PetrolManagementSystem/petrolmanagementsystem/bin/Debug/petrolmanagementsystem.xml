@@ -1,0 +1,351 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+petrolmanagementsystem
+</name>
+</assembly>
+<members>
+<member name="T:petrolmanagementsystem.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:petrolmanagementsystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:petrolmanagementsystem.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:petrolmanagementsystem.My.Resources.Resources.index">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:petrolmanagementsystem.My.Resources.Resources.petrol_pump">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:petrolmanagementsystem.My.Resources.Resources.SAM_525">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:petrolmanagementsystem.My.Resources.Resources.SAM_5251">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.bankaccountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.bankdetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.boothsettingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.custaccountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.customerdetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.dailytransactionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.empdetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.ledgerdetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.lubdetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.orderdetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.prodetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.protestingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.stockdetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.suppdetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.supplieraccountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.bankaccountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.bankdetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.boothsettingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.custaccountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.customerdetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.dailytransactionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.empdetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.ledgerdetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.lubdetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.orderdetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.prodetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.protestingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.stockdetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.suppdetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.supplieraccountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.bankaccountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.bankdetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.boothsettingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.custaccountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.customerdetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.dailytransactionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.empdetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.ledgerdetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.lubdetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.orderdetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.prodetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.protestingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.stockdetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.suppdetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSet.supplieraccountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSetTableAdapters.bankaccountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSetTableAdapters.bankdetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSetTableAdapters.boothsettingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSetTableAdapters.custaccountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSetTableAdapters.customerdetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSetTableAdapters.dailytransactionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSetTableAdapters.empdetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSetTableAdapters.ledgerdetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSetTableAdapters.lubdetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSetTableAdapters.orderdetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSetTableAdapters.prodetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSetTableAdapters.protestingTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSetTableAdapters.stockdetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSetTableAdapters.suppdetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:petrolmanagementsystem.db1DataSetTableAdapters.supplieraccountTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>
